@@ -31,7 +31,7 @@ Passionate about transforming data into meaningful insights through Machine Lear
 ### Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,php,js,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,php,js,mysql,github,vscode"/>
 </p>
 
 ### Data Science
