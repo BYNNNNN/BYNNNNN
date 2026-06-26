@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,100:4A90E2&height=220&section=header&text=Suryo%20Bintoro&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi there 👋, I'm Suryo Bintoro</h1>
+<h1 align="center">I'm Suryo Bintoro</h1>
 
 <h3 align="center">
 Data Analyst • Machine Learning Enthusiast • Informatics Graduate
