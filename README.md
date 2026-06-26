@@ -106,11 +106,11 @@ where I can leverage analytical thinking and machine learning techniques to solv
 
 <p>
 
-<a href="https://linkedin.com/in/USERNAME">
+<a href="https://linkedin.com/in/suryobintoro69">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:EMAILANDA">
+<a href="mailto:suryobintoro69@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
