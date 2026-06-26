@@ -58,8 +58,6 @@ Passionate about transforming data into meaningful insights through Machine Lear
 
 </p>
 
----
-
 # 🌱 Currently Learning
 
 - Machine Learning
