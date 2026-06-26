@@ -48,26 +48,6 @@ Passionate about transforming data into meaningful insights through Machine Lear
 - Word2Vec
 
 ---
-
-# 📌 Featured Project
-
-## 📊 Sentiment Analysis of BCA Mobile Reviews using LSTM
-
-**Description**
-
-Developed a sentiment analysis model using the Long Short-Term Memory (LSTM) algorithm to classify user reviews of the BCA Mobile application from Google Play Store.
-
-### Highlights
-
-- 🔹 Scraped 10,000+ reviews
-- 🔹 Data preprocessing
-- 🔹 Word2Vec Embedding
-- 🔹 LSTM Classification
-- 🔹 Model Evaluation
-- 🔹 Visualization of Results
-
----
-
 # 📈 GitHub Statistics
 
 <p align="center">
