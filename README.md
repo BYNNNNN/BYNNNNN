@@ -6,7 +6,7 @@
 <h1 align="center">I'm Suryo Bintoro</h1>
 
 <h3 align="center">
-Data Analyst • Machine Learning Enthusiast • Informatics Graduate
+Data Analyst • Data Scientist • Machine Learning Enthusiast • Informatics Graduate
 </h3>
 
 <p align="center">
