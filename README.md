@@ -18,11 +18,11 @@ Passionate about transforming data into meaningful insights through Machine Lear
 # 👨‍💻 About Me
 
 - 🎓 Informatics Graduate
-- 📊 Interested in Data Analytics & Machine Learning
-- 🤖 Research focused on Sentiment Analysis using LSTM
+- 📊 Interested in Data Analytics, Data Scientist, & Machine Learning
+- 🤖 Research focused on Sentiment Analysis
 - 💻 Experienced in PHP Web Development
 - 🎨 Former UI/UX Design Intern
-- 🌱 Currently learning Data Engineering & Business Intelligence
+- 🌱 Currently learning Data Engineering & Data Scientist
 
 ---
 
@@ -62,6 +62,7 @@ Passionate about transforming data into meaningful insights through Machine Lear
 
 - Machine Learning
 - Deep Learning
+- Data Scientist
 - Data Analytics
 - SQL Optimization
 - Data Visualization
@@ -73,6 +74,7 @@ Passionate about transforming data into meaningful insights through Machine Lear
 Seeking opportunities as:
 
 - Data Analyst
+- Data Scientist
 - Business Intelligence Analyst
 - Machine Learning Engineer
 
